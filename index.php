@@ -17,4 +17,7 @@ match($act){
 
 require_once "./Core/disconnect.php";
 
+
+
+// thanh dang test banch
 ?>
